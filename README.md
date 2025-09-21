@@ -2,7 +2,7 @@
 
 A comprehensive AI-powered medical education platform designed to help prospective physicians develop their diagnostic skills through realistic patient scenarios, interactive consultations, and point-based learning systems.
 
-![Medical Simulation Platform]()
+
 
 ##  Features
 
